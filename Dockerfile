@@ -1,5 +1,4 @@
 FROM alpine:3.6
-MAINTAINER Ilya Stepanov <dev@ilyastepanov.com>
 
 ENV DOKUWIKI_VERSION 2017-02-19b
 ENV MD5_CHECKSUM ea11e4046319710a2bc6fdf58b5cda86
